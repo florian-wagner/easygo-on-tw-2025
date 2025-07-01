@@ -4,7 +4,8 @@ channels:
   - defaults
   - gimli
 dependencies:
-  - pygimli >= 1.5.4
+  - pygimli >= 1.5.3
+  - python=3.10
   - jupyter
   - pytest
   - pyvista[all,trame]>=0.42
