@@ -1,4 +1,5 @@
-author: 
+output-dir: ../docs
+author:
   name: Univ.-Prof. Dr. sc. Florian M. Wagner
   orcid: 0000-0001-7407-9741
   email: florian.wagner@gim.rwth-aachen.de

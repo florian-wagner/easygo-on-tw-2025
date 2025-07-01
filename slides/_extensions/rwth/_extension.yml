@@ -18,7 +18,9 @@ contributes:
       logo: rwth_gim_en_rgb.png
       footer: Geophysical Imaging and Monitoring
       transition: fade
-      output-location: column
+      output-location: column   
+      embed-resources: true
+
       header-includes: |
         <script src="_extensions/rwth/custom.js" type="application/javascript"></script>
     menu:
