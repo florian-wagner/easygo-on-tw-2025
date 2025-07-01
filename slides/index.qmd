@@ -8,6 +8,17 @@ execute:
   echo: true
 ---
 
+## Interactive slides available here
+
+::: {.r-fit-text .centered}
+
+{{< qrcode https://easygo-on.pygimli.org >}}
+
+or
+
+<https://easygo-on.pygimli.org>
+:::
+
 ## Geophysical monitoring of subsurface processes
 ![@Binley2015](img/inversion.png)
 
